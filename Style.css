@@ -1,0 +1,13 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 30px;
+  background: #f9f9f9;
+}
+
+.ramo {
+  margin: 10px 0;
+  padding: 10px;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
